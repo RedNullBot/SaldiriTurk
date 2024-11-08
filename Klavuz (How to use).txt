@@ -1,0 +1,23 @@
+I (the producer) is not responsible for any attack made using this program, use it responsibly. This application is made for testing purposes only.
+
+Place the saldiritürk.py file into your user file.
+Example: OS (C:)/Users/Yourusername.
+
+Usage: python saldiritürk.py
+
+First, target IP.
+Then, target port.
+Third of all, turbo level.
+
+Bu program kullanarak yapılmış herhangi bir saldırıdan ben (yapımcı) sorumlu değilim, sorumlulukla kullanın. Bu uygulama izin ile yapılan, test amaçlı işlemler için yapılmıştır.
+
+Saldiritürk.py dosyasını kullanıcı dosyanızın içerisine yerleştirin.
+Örnek: 	OS (C:)/Kullanıcılar/kullanıcıadınız.
+
+Kullanımı: python saldiritürk.py
+
+İlk önce hedef IP adresi.
+Ardından hedef bağlantı noktası (hedef port) hedefleyin.
+Üçüncü ve son olarak da, turbo seviyesi.
+
+
