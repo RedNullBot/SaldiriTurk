@@ -1,9 +1,9 @@
 I (the producer) is not responsible for any attack made using this program, use it responsibly. This application is made for testing purposes only.
 
-Place the saldiritürk.py file into your user file.
+Place the saldiriturksource.py file into your user file.
 Example: OS (C:)/Users/Yourusername.
 
-Usage: python saldiritürk.py
+Usage: python saldiriturksource.py
 
 First, target IP.
 Then, target port.
@@ -14,7 +14,7 @@ Bu program kullanarak yapılmış herhangi bir saldırıdan ben (yapımcı) soru
 Saldiritürk.py dosyasını kullanıcı dosyanızın içerisine yerleştirin.
 Örnek: 	OS (C:)/Kullanıcılar/kullanıcıadınız.
 
-Kullanımı: python saldiritürk.py
+Kullanımı: python saldiriturksource.py
 
 İlk önce hedef IP adresi.
 Ardından hedef bağlantı noktası (hedef port) hedefleyin.
